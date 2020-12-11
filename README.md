@@ -18,7 +18,7 @@ For that, we are using following regression techniques:
 - Random Forest
 
 ### Contributors:
-- Victoria Belotti[https://github.com/victoriabelotti42]
-- Adika Jain[https://github.com/adikajain19]
-- Kapil Khond[https://github.com/kkhond]
-- Rahul Nair[https://github.com/rahulmnair1997]
+- (Victoria Belotti)[https://github.com/victoriabelotti42]
+- (Adika Jain)[https://github.com/adikajain19]
+- (Kapil Khond)[https://github.com/kkhond]
+- (Rahul Nair)[https://github.com/rahulmnair1997]
